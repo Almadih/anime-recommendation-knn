@@ -1,0 +1,8 @@
+.score{
+    display:flex;
+    align-items: center;
+}
+.details{
+    padding: 9px;
+    margin-top: 20px;
+}
